@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kateyang1998
+- 👋 Hi, I’m Kate Yang
 - 👀 I’m interested in different IT projects
 - 🌱 I’m currently learning IT Innovation and Design
 - 💞️ I’m looking to collaborate on learning and creating different type of IT projects
